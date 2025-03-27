@@ -4,8 +4,8 @@
 This repository contains my solutions to various LeetCode problems. 
 The problems are categorized by type and further divided by difficulty level.
 
-## Current Solution Packages
 
+## Current Solution Packages
 - **Arrays**
   - TwoSum - Easy
   - ThreeSum - Medium
@@ -16,6 +16,8 @@ The problems are categorized by type and further divided by difficulty level.
   
 - **Graphs**
 - **Strings**
+  - IsomorphicStrings - Easy
+  - RansomNote - Easy
 - **Trees**
 
 
@@ -30,8 +32,8 @@ The problems are categorized by type and further divided by difficulty level.
 3. Ensure filenames are clear, for example: `TwoSum.java` or `LongestSubstring.java`.
 4. Class level Java Docs will be used for explanations 
 
-## Exmaple
 
+## Exmaple
 ```java
 /**
  * <h2> Solution for: Two Sum. </h2>
