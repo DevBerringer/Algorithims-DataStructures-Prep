@@ -1,11 +1,11 @@
-package com.backenddev.learning.arrays;
+package com.backenddev.learning.Arrays;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
 
 /**
- * Solution for the LeetCode problem: 3Sum.
+ * Solution for: 3Sum.
  * <p>
  * This class provides a solution to the problem where given an array of integers,
  * we need to find all unique triplets in the array that sum up to zero.

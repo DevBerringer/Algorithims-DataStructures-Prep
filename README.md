@@ -15,7 +15,7 @@ The problems are categorized by type and further divided by difficulty level.
 - **DynamicProgramming**
   
 - **Graphs**
-
+- **Strings**
 - **Trees**
 
 

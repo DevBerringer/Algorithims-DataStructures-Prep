@@ -1,4 +1,4 @@
-package com.backenddev.learning.arrays;
+package com.backenddev.learning.Arrays;
 
 import java.util.HashMap;
 import java.util.Map;

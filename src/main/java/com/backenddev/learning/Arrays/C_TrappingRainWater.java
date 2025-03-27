@@ -1,6 +1,4 @@
-package com.backenddev.learning.arrays.hard;
-
-import java.util.Stack;
+package com.backenddev.learning.Arrays.hard;
 
 /**
  * <h2> Solution for: Trapping Rain Water. </h2>
