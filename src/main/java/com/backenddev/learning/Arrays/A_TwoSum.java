@@ -5,7 +5,7 @@ import java.util.Map;
 
 
 /**
- * <h2> Solution for: Three Sum. </h2>
+ * <h2> Solution for: 2Sum. </h2>
  * <p>
  * This class provides a solution to the problem where given an array of integers,
  * we need to find all unique triplets in the array that sum up to zero.

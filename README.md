@@ -18,6 +18,7 @@ The problems are categorized by type and further divided by difficulty level.
 - **Strings**
   - IsomorphicStrings - Easy
   - RansomNote - Easy
+  - lengthOfLongestSubstring - Medium
 - **Trees**
 
 
