@@ -3,25 +3,21 @@ package com.backenddev.learning.Arrays.Hashing;
 import java.util.HashMap;
 import java.util.Map;
 
-
 /**
- * <h2> Solution for: 2Sum. </h2>
+ * <h2>Solution for: Two Sum</h2>
  * <p>
- * This class provides a solution to the problem where given an array of integers,
- * we need to find all unique triplets in the array that sum up to zero.
+ * This class provides a solution to the problem where, given an array of integers,
+ * we need to find two indices such that their values sum up to a target.
  * </p>
- * <p>
  * <h5>Approach:</h5>
- * </p>
  * <ul>
- *   <li>Sort the input array to allow the use of the two-pointer technique.</li>
- *   <li>Iterate through the array, fixing one element, and then use two pointers to find pairs that sum up to the negative of the fixed element.</li>
- *   <li>Skip duplicate elements to ensure the triplets are unique.</li>
+ *   <li>Use a HashMap to store previously seen numbers and their indices.</li>
+ *   <li>For each number, check if its complement (target - number) exists in the map.</li>
  * </ul>
  * <h5>Complexities:</h5>
  * <ul>
- *   <li>Time complexity: O(n^2) where n is the length of the input array.</li>
- *   <li>Space complexity: O(1) because we are using a constant amount of space, except for the output list.</li>
+ *   <li>Time complexity: O(n)</li>
+ *   <li>Space complexity: O(n)</li>
  * </ul>
  */
 public class TwoSum {
