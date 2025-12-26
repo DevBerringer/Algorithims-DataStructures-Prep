@@ -1,4 +1,4 @@
-package com.backenddev.learning.strings.SlidingWindow;
+package com.backenddev.learning.Strings.SlidingWindow;
 
 import org.junit.jupiter.api.Test;
 

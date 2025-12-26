@@ -133,7 +133,7 @@ mvn test -Dtest=TwoSumTest
 ```
 
 ## Technologies Used
-- **Java 8+**
+- **Java 22**
 - **JUnit 5** for testing
 - **Maven** for build management
 - **Clean Code Principles**

@@ -1,4 +1,4 @@
-package com.backenddev.learning.strings.Hashing;
+package com.backenddev.learning.Strings.Hashing;
 
 import org.junit.jupiter.api.Test;
 

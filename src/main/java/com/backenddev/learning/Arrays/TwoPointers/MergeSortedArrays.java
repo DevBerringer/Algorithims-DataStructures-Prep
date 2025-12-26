@@ -15,7 +15,7 @@ package com.backenddev.learning.Arrays.TwoPointers;
  * <h5>Complexities:</h5>
  * <ul>
  *   <li>Time complexity: O(m + n)</li>
- *   <li>Space complexity: O(1) — in-place merge</li>
+ *   <li>Space complexity: O(1) â€” in-place merge</li>
  * </ul>
  */
 public class MergeSortedArrays {
