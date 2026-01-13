@@ -1,0 +1,2 @@
+"""Arrays problem category package."""
+
